@@ -41,3 +41,12 @@ Git bash.
 from git bash.
 - `ls`: With this command, users can check and take record of files
 in the directory.
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+- Track, compare, and make changes to different directory.
+- Work on a group project without conflit.
+- Identify and understand previous annotated changes.
+- Combine changes made by different group members.
