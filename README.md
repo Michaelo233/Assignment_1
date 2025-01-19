@@ -31,3 +31,13 @@ Changes not staged for commit:
         modified:   README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+## Purpose of the following Commands:
+
+- `mkdir`: To allow users to create a new directory from Git bash.
+- `cd`: To allow user move to the new directory the created from 
+Git bash.
+- `code`: To allow user open new directory in Visual Studio Code 
+from git bash.
+- `ls`: With this command, users can check and take record of files
+in the directory.
